@@ -73,7 +73,6 @@ I am a self-motivated innovator who lives by the mantra: Execution Supersedes In
 📧 Email: atharvaarbooj17@gmail.com
 
 📍 Location: Chicago, IL (Open to Relocation)
-
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Datharva-arbooj%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="Atharva's GitHub Stats" />
-</p>
+</p>>
